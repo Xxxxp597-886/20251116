@@ -1,8 +1,9 @@
 #include<stdio.h>
 
 int main(){
-	printf("testing/n");
-
+	
+	printf("qiwekasjhkldjq");
+	printg("aslkjckxzhc");
 	return 0;
 
 }
